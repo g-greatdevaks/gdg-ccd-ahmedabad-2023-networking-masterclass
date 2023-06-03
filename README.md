@@ -6,6 +6,9 @@ Anmol Krishan Sachdeva</br>
 Hybrid Cloud Architect, Google</br>
 [LinkedIn@greatdevaks](https://www.linkedin.com/in/greatdevaks) | [Twitter@greatdevaks](https://www.twitter.com/greatdevaks)
 
+**Slide Deck:**
+[GCP Hybrid Network Connectivity Masterclass](./Google_Cloud_Community_Day_Ahmedabad_2023_GCP_Hybrid_Network_Connectivity_Masterclass.pdf)
+
 **References:**
 - [Networking Fundamentals in Google Cloud](https://www.cloudskillsboost.google/quests/31?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=24033883)
 - [Hybrid Connectivity and Network Management](https://www.cloudskillsboost.google/course_templates/36?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=24033883)
